@@ -1,4 +1,4 @@
----
+---aaa
 description: Integrate MetaMask SDK with Web3-Onboard in your JavaScript dapp.
 tags:
   - JavaScript SDK
